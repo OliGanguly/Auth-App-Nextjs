@@ -67,6 +67,8 @@ Install my-project with npm
 It does not stay connected with your database, every single time there is a database call, you have to call your database , make aconnection with it.and work through that.
 
 ## Token Concept
+![TokenConcept](https://github.com/OliGanguly/Auth-App-Nextjs/assets/82031303/d87eb2ee-a043-4cd9-92e2-bd9d341c842e)
+
 
 
 
