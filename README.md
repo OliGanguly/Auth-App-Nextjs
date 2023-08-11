@@ -9,6 +9,9 @@ Next js is a framework build on top of React js.
 
 User Authentication System 
 - Sign Up -> Login -> Profile -> Reset Password ->Verfiy User
+- ![MyAuthProject](https://github.com/OliGanguly/Auth-App-Nextjs/assets/82031303/2277bc5b-9371-4945-a61a-df1c6d4b8efc)
+![FolderStructure](https://github.com/OliGanguly/Auth-App-Nextjs/assets/82031303/813eb89e-b133-4046-9911-fedd52fc871c)
+
 
 
 
