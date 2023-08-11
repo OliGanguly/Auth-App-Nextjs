@@ -59,6 +59,10 @@ Install my-project with npm
 - nodemailer - shoot out email
 - react-hot-toast - small pop up messages
 - mongoose -helps to talk with mongodb, its a wrapper around mongoDB Driver
+## Next js is edge run Framework
+
+It does not stay connected with your database, every single time there is a database call, you have to call your database , make aconnection with it.and work through that.
+
 
 
 
